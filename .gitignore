@@ -1,0 +1,79 @@
+# Ignore build and distribution directories
+build/
+dist/
+
+# Ignore PyInstaller spec files
+*.spec
+
+# Ignore certificates and cryptographic files
+*.p7b
+*.pfx
+*.cer
+*.crt
+*.key
+
+# Ignore text files containing sensitive data
+certification.*
+system_info.txt
+version.txt
+
+# Ignore images (add if not required for functionality)
+IS.png
+logo.png
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+# Ignore build and distribution directories
+build/
+dist/
+
+# Ignore PyInstaller spec files
+*.spec
+
+# Ignore certificates and cryptographic files
+*.p7b
+*.pfx
+*.cer
+*.crt
+*.key
+
+# Ignore text files containing sensitive data
+certification.*
+system_info.txt
+version.txt
+
+# Ignore images (add if not required for functionality)
+IS.png
+logo.png
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
