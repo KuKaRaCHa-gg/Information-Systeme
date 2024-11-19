@@ -1,3 +1,3 @@
 GROUPE WORKSPACE INFORMATIQUE SECHE ALLIANCE
 
-This software is licensed under the proprietary license of Groupe Workspace Informatique Seche Alliance. Unauthorized distribution or usage without prior consent is strictly prohibited. For any questions or permissions, please contact d.minevich@group-seche.com
+This software is the exclusive property of Daniil Minevich and is licensed under the proprietary license of Groupe Workspace Informatique Seche Alliance. Unauthorized distribution or usage without prior consent is strictly prohibited. For any questions or permissions, please contact Daniil Minevich at: d.minevich@group-seche.com.
