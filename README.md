@@ -46,3 +46,50 @@ An **Information System Application** built with Python and Tkinter that provide
    ```bash
    git clone https://github.com/KuKaRaCHa-gg/Information-Systeme.git
    cd Information-Systeme
+Install dependencies:
+bash
+Copier le code
+pip install -r requirements.txt
+🚀 Usage
+Run the application:
+
+bash
+Copier le code
+python seche.py
+📂 Project Structure
+
+Information-Systeme/
+├── build/                # PyInstaller build files (ignored in Git)
+├── dist/                 # PyInstaller dist files (ignored in Git)
+├── assets/               # Screenshots and other assets
+├── seche.py              # Main application script
+├── .gitignore            # Git ignore file
+├── LICENSE.txt           # License information
+├── README.md             # Project documentation
+🛡️ License
+This project is licensed under the MIT License. See the LICENSE.txt file for more details.
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! 🎉
+Feel free to check the issues page.
+
+Fork the repository 🍴
+Create a feature branch:
+bash
+Copier le code
+git checkout -b my-feature
+Commit your changes:
+
+git commit -m "Add a cool feature 🎉"
+Push to the branch:
+
+git push origin my-feature
+Open a pull request 🛠️
+
+❤️ Acknowledgements
+Thanks to the developers of Python and its awesome libraries!
+Thanks to the open-source community 🌍 for inspiration and support.
+
+
+🌟 Show Your Support
+Give a ⭐️ if you like this project and want to see more like it!
